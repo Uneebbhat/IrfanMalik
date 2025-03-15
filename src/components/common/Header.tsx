@@ -2,14 +2,7 @@ import Image from "next/image";
 import React from "react";
 import { InteractiveHoverButton } from "../magicui/interactive-hover-button";
 import { Menu } from "lucide-react";
-import {
-  Sheet,
-  SheetContent,
-  SheetDescription,
-  SheetHeader,
-  SheetTitle,
-  SheetTrigger,
-} from "@/components/ui/sheet";
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 
 const Header = () => {
   const routes = [

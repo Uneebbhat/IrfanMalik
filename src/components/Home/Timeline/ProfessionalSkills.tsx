@@ -7,7 +7,6 @@ import {
   BrainIcon,
   Database,
   EthernetPort,
-  MemoryStickIcon,
   TabletSmartphone,
 } from "lucide-react";
 import React from "react";
