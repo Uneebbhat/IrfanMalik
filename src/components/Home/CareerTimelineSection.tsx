@@ -33,9 +33,9 @@ const CareerTimelineSection = () => {
       content: (
         <div>
           <p className="text-neutral-800 dark:text-neutral-200 text-xs md:text-sm font-normal mb-8">
-            Irfan earned his Master's in Information Technology from UMT. With a
-            strong enthusiasm for technology, he remains dedicated to lifelong
-            learning and making a lasting impact in the AI industry.
+            Irfan earned his Master&apos;s in Information Technology from UMT.
+            With a strong enthusiasm for technology, he remains dedicated to
+            lifelong learning and making a lasting impact in the AI industry.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <Image
@@ -76,9 +76,9 @@ const CareerTimelineSection = () => {
       content: (
         <div>
           <p className="text-neutral-800 dark:text-neutral-200 text-xs md:text-sm font-normal mb-8">
-            Irfan completed his Master’s degree in Artificial Intelligence from
-            Virtual University of Pakistan. Passionate about technology, he is
-            committed to continuous learning and strives to make a meaningful
+            Irfan completed his Master&apos;s degree in Artificial Intelligence
+            from Virtual University of Pakistan. Passionate about technology, he
+            is committed to continuous learning and strives to make a meaningful
             contribution to the AI field.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

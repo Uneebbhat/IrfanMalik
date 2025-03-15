@@ -32,7 +32,7 @@ const VisionSection = () => {
       <div className="flex flex-col md:flex-row justify-between gap-10 relative">
         {/* Sticky Left Section */}
         <div className="w-[100%] h-fit md:sticky top-10 self-start">
-          <h3 className="text-2xl">What’s Irfan’s Vision?</h3>
+          <h3 className="text-2xl">What&apos;s Irfan&apos;s Vision?</h3>
           <h2 className="text-4xl font-bold leading-tight">
             Advancing Innovation, Leadership, and Impact
           </h2>

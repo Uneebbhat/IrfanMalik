@@ -50,14 +50,15 @@ const AboutSection = () => {
               multi-million-dollar company with offices in the UK, USA, UAE, and
               Pakistan—Malik has built his success by leveraging AI, data
               science, and emerging technologies to create real-world solutions.
-              But for him, success isn’t just about business; it’s about impact.
+              But for him, success isn&apos;t just about business; it&apos;s
+              about impact.
               <br />
               <br />
               Driven by a passion for uplifting others, he is dedicated to
               mentoring youth, creating job opportunities, and supporting
               freelancers and entrepreneurs. He firmly believes that true
-              success is not just about personal achievement—it’s about helping
-              others rise and shaping a better future for all.
+              success is not just about personal achievement—it&apos;s about
+              helping others rise and shaping a better future for all.
             </motion.p>
           </div>
           <motion.div
