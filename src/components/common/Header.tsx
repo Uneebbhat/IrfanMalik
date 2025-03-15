@@ -34,7 +34,7 @@ const Header = () => {
         </div>
         <div className="flex items-center gap-[10px]">
           <div className="hidden md:block">
-            <InteractiveHoverButton>Let's Talk.</InteractiveHoverButton>
+            <InteractiveHoverButton>Let&apos;s Talk.</InteractiveHoverButton>
           </div>
 
           <Sheet>
